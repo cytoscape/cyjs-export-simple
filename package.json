@@ -1,6 +1,7 @@
 {
-  "name": "gulp",
-  "version": "0.0.0",
+  "name": "cyjs-export-simple",
+  "version": "0.1.1",
+  "description": "Template code for HTML5 exporer.  Simplified version.",
   "dependencies": {},
   "devDependencies": {
     "connect": "^2.14.4",
