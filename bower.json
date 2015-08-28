@@ -1,5 +1,6 @@
 {
-  "name": "gulp",
+  "name": "cyjs-export-simple",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
     "jquery": "~1.11.0",

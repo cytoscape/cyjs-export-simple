@@ -13,6 +13,7 @@ $(function () {
             name: 'preset',
             padding: 10
         },
+        boxSelectionEnabled: true,
 
         ready: function () {
             window.cy = this;
